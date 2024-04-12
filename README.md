@@ -2,7 +2,7 @@
 This is the first part of PROG6221
 README for Recipe Manager Application
 Overview
-The Recipe Manager Application is a simple console-based C# program designed to help users manage cooking recipes. It allows users to create recipes, add and adjust ingredients, include preparation steps, and manage these recipes through a simple interface. This program is particularly useful for both beginner and experienced cooks who want to organize and manipulate their recipes digitally.
+The Recipe Manager Application is a console-based C# program designed to help users manage cooking recipes. It allows users to create recipes, add and adjust ingredients, include preparation steps, and manage these recipes through a simple interface. This program is particularly useful for both beginner and experienced cooks who want to organize and manipulate their recipes digitally.
 Features
 Create New Recipes: Start a fresh recipe to add ingredients and steps.
 Add Ingredients and Steps: Dynamically add ingredients with their quantities and units, as well as detailed cooking steps.
